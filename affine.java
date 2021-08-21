@@ -25,5 +25,3 @@ ciphertext+=cipher;
 System.out.println("ciphertext is: "+ciphertext);
 }
 }
-//trialpurpose@outlook.com
-//Shutup@123
