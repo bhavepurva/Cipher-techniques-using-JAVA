@@ -8,3 +8,7 @@ Various cipher techniques using java, general overview behind their mechanism
 3.Autokey cipher
 
 4.Diffie-hellman key exchange
+
+5.Product cipher->Rail fence cipher over affine cipher
+
+6.Vignere cipher
