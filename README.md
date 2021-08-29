@@ -12,3 +12,7 @@ Various cipher techniques using java, general overview behind their mechanism
 5.Product cipher->Rail fence cipher over affine cipher
 
 6.Vignere cipher
+
+7. Euclidean method to find inverse
+
+8. RSA algorithm 
