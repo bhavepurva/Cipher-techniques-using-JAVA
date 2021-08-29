@@ -13,6 +13,6 @@ Various cipher techniques using java, general overview behind their mechanism
 
 6.Vignere cipher
 
-7. Euclidean method to find inverse
+7.Euclidean method to find inverse
 
-8. RSA algorithm 
+8.RSA algorithm 
